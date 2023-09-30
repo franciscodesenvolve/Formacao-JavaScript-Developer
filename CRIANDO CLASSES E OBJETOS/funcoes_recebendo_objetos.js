@@ -28,3 +28,5 @@ const Francisco = new Pessoa ('Francisco', 30);
 const Luana = new Pessoa ('Luana', 32);
 
 compararPessoas(Francisco, Luana);
+Francisco.descrever();
+Luana.descrever();
